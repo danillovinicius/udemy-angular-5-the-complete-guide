@@ -1,0 +1,2 @@
+generate new component
+`ng g c mycomponent`
